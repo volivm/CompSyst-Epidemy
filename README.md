@@ -1,2 +1,2 @@
 # Hello!
-# This is a Complex Systems project applied to an epidemic context.
+# This is a Complex Systems project applied to an epidemic context. Wiat for further informations.
